@@ -1,0 +1,1 @@
+In this cryptography project, I used the concepts of abstract classes, inheritance, and object-oriented-programming to implement various Ciphers that can encrypt/decrypt plaintext into ciphertext. Ths Ciphers I implemented were: Substitution, CaesarShift, CaesarKey, MultiCipher, and Concealment.
